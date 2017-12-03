@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Settheworldonfireiii/mmfshit/issues"
   },
-  "homepage": "https://github.com/Settheworldonfireiii/mmfshit#readme"
+  "homepage": "https://github.com/Settheworldonfireiii/mmfshit#readme",
+  "dependencies": {
+    "appcache-manifest": "^2.1.0"
+  }
 }
